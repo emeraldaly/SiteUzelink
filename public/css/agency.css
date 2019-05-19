@@ -753,3 +753,45 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #088DA5;
 }
+section#mission {
+  background-color: #222222;
+  background-image: url('../img/arek-adeoye-213476-unsplash.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+section#conversations {
+  background-color: #222222;
+  /*background-image: url('../img/map-image.png');*/
+  background-position: center;
+  background-repeat: no-repeat;
+}
+section#seniors {
+  background-color: #c6b4b4;
+  /*background-image: url('../img/map-image.png');*/
+  background-position: center;
+  background-repeat: no-repeat;
+}
+section#solution {
+  background-color: #222222;
+  /*background-image: url('../img/map-image.png');*/
+  background-position: center;
+  background-repeat: no-repeat;
+}
+section#team {
+  background-color: #c6b4b4;
+  /*background-image: url('../img/map-image.png');*/
+  background-position: center;
+  background-repeat: no-repeat;
+}
+section#faq {
+  background-color: #222222;
+ /* background-image: url('../img/map-image.png');*/
+  background-position: center;
+  background-repeat: no-repeat;
+}
+section#download {
+  background-color: #c6b4b4;
+  background-image: url('../img/david-straight-44940-unsplash.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+}
